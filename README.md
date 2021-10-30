@@ -32,4 +32,6 @@
 
     *Note*: When import scripts within your project ensure you add a full-stop
     before the script name, e.g.:
-    ```from .script import ...```
+    ```
+    from .script import ...
+    ```
