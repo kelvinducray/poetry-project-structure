@@ -25,7 +25,9 @@
     Your project slug will be your project name with underscores
     instead of dashes, then create an ```__init__.py``` and a ```__main__.py.```
     The ```__main__.py``` is what will execute when you run:
-    ```python -m <your_project_name>```
+    ```
+    python -m <your_project_name>
+    ```
     From the base directory of the project.  
 
     *Note*: When import scripts within your project ensure you add a full-stop
